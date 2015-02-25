@@ -1,0 +1,12 @@
+{
+    "name": "Simple Paypal Integration",
+    "authors": [
+        {
+          "name": "Ivan Rosolen",
+          "email": "ivan@rosolen.net"
+        }
+    ],
+    "require": {
+        "paypal/rest-api-sdk-php": "*"
+    }
+}
